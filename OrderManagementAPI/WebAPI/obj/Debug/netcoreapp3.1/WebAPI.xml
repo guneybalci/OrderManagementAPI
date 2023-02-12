@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:WebAPI.Controllers.AuthController.Login(Entities.DTOs.UserForLoginDto)">
+            <summary>
+            required args for Login: email,password
+            </summary>
+            <param name="userForLoginDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebAPI.Controllers.AuthController.Register(Entities.DTOs.UserForRegisterDto)">
+            <summary>
+            required args for Register: email,password,firstname,lastname
+            </summary>
+            <param name="userForRegisterDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebAPI.Controllers.OrdersController.Add(Entities.Concrete.Order)">
+            <summary>
+            Create an Order
+            If you are not authorized, you cannot perform this action. Create user or sign in
+            </summary>
+            <param name="order"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebAPI.Controllers.OrdersController.Update(Entities.Concrete.Order)">
+            <summary>
+            Update the Order
+            If you are not authorized, you cannot perform this action. Create user or sign in
+            </summary>
+            <param name="order"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebAPI.Controllers.OrdersController.Delete(Entities.Concrete.Order)">
+            <summary>
+            Delete the Order
+            If you are not authorized, you cannot perform this action. Create user or sign in
+            </summary>
+            <param name="order"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebAPI.Controllers.OrdersController.GetAll">
+            <summary>
+             Get All Orders
+             If you are not authorized, you cannot perform this action. Create user or sign in
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebAPI.Controllers.OrdersController.GetById(System.Int32)">
+            <summary>
+            Get Order By Id
+            If you are not authorized, you cannot perform this action. Create user or sign in
+            </summary>
+            <param name="orderId"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

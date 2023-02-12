@@ -1,0 +1,17 @@
+C:\Users\guney.balci\source\repos\OrderManagementAPI\Business\bin\Debug\netstandard2.0\Business.deps.json
+C:\Users\guney.balci\source\repos\OrderManagementAPI\Business\bin\Debug\netstandard2.0\Business.dll
+C:\Users\guney.balci\source\repos\OrderManagementAPI\Business\bin\Debug\netstandard2.0\Business.pdb
+C:\Users\guney.balci\source\repos\OrderManagementAPI\Business\bin\Debug\netstandard2.0\Core.dll
+C:\Users\guney.balci\source\repos\OrderManagementAPI\Business\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\guney.balci\source\repos\OrderManagementAPI\Business\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\guney.balci\source\repos\OrderManagementAPI\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\guney.balci\source\repos\OrderManagementAPI\Business\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\guney.balci\source\repos\OrderManagementAPI\Business\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\guney.balci\source\repos\OrderManagementAPI\Business\obj\Debug\netstandard2.0\Business.csproj.AssemblyReference.cache
+C:\Users\guney.balci\source\repos\OrderManagementAPI\Business\obj\Debug\netstandard2.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guney.balci\source\repos\OrderManagementAPI\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\guney.balci\source\repos\OrderManagementAPI\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\Users\guney.balci\source\repos\OrderManagementAPI\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\guney.balci\source\repos\OrderManagementAPI\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+C:\Users\guney.balci\source\repos\OrderManagementAPI\Business\obj\Debug\netstandard2.0\Business.dll
+C:\Users\guney.balci\source\repos\OrderManagementAPI\Business\obj\Debug\netstandard2.0\Business.pdb
